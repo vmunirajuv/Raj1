@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 4EBF-5AD3
-
- Directory of C:\Users\Lenovo\Desktop\GITT
-
-26-11-2021  15:43    <DIR>          .
-26-11-2021  15:43    <DIR>          ..
-26-11-2021  15:43                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  146,464,944,128 bytes free
+hello
